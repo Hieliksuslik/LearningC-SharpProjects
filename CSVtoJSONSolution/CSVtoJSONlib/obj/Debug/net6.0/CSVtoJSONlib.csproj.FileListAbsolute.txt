@@ -1,0 +1,12 @@
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\bin\Debug\net6.0\CSVtoJSONlib.deps.json
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\bin\Debug\net6.0\CSVtoJSONlib.dll
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\bin\Debug\net6.0\CSVtoJSONlib.pdb
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.csproj.AssemblyReference.cache
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.AssemblyInfoInputs.cache
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.AssemblyInfo.cs
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.csproj.CoreCompileInputs.cache
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.dll
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\refint\CSVtoJSONlib.dll
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\CSVtoJSONlib.pdb
+C:\Users\lando\Documents\C# Tutorials\CSVtoJSONSolution\CSVtoJSONlib\obj\Debug\net6.0\ref\CSVtoJSONlib.dll
