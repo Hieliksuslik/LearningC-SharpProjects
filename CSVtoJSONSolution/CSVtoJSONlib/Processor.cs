@@ -19,6 +19,9 @@ namespace CSVtoJSONlib
         public static void ProcessLines(string path, out int validAccounts, out int validTransactions)
         {
             List<Data> _data = new List<Data>();
+            // Tracks unique AccountID's
+            List<string> _uniqueIDs = new List<string>();
+
             validAccounts = 0;
             validTransactions = 0;
 
@@ -43,9 +46,11 @@ namespace CSVtoJSONlib
                             AccountOwnerName = currentRow[4],
                             AccountType = currentRow[5]
                         });
-
-                        // TODO: Determine how to properly count unique account ID's.
-                        validAccounts++;
+                        if (!_uniqueIDs.Contains(currentRow[3]))
+                        {
+                            _uniqueIDs.Add(currentRow[3]);
+                            validAccounts++;
+                        }
                         validTransactions++;
                     }
                 }
