@@ -1,4 +1,5 @@
 # LearningC-SharpProjects
-## About this repo:
-- This repository will hold the C# projects that I feel don't warrant a repo of their own.
-- I hope to use this to document my progression of learning C#, no matter how long it takes.
+## About
+* This repository is for any projects I make involving C#.  
+* Any project that I'm confident should stand independently will get moved out.  
+* Learning to love the process, and enjoy the end result.
