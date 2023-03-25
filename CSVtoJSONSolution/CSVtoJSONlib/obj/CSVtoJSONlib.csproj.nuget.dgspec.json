@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lando\\Documents\\C# Tutorials\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj": {}
+    "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lando\\Documents\\C# Tutorials\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj": {
+    "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lando\\Documents\\C# Tutorials\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj",
         "projectName": "CSVtoJSONlib",
-        "projectPath": "C:\\Users\\lando\\Documents\\C# Tutorials\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj",
-        "packagesPath": "C:\\Users\\lando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lando\\Documents\\C# Tutorials\\CSVtoJSONSolution\\CSVtoJSONlib\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\CSVtoJSONSolution\\CSVtoJSONlib\\CSVtoJSONlib.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\CSVtoJSONSolution\\CSVtoJSONlib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

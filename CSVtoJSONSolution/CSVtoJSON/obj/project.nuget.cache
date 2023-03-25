@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HHDLYONrI7MJiHrqzLphQcPE66dAQaS4NYieiiKWMetiwAwpIT1WJdVPgXmRewwavEAgGJHy789rRnD4MycnfQ==",
+  "dgSpecHash": "rVMwTePBylRp6/LY9cUOONX49C1yx1NRZ58fVsWViwYLchA7/6gxRxVZ70r2APgUsK67WN+R51/Lxg/2ZMEA6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lando\\Documents\\C# Tutorials\\CSVtoJSONSolution\\CSVtoJSON\\CSVtoJSONUtility.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\CSVtoJSONSolution\\CSVtoJSON\\CSVtoJSONUtility.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\lando\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }
