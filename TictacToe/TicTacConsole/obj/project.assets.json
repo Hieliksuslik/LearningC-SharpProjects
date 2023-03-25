@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lando\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lando\\Documents\\gitRepos\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\TicTacConsole.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\TicTacConsole.csproj",
       "projectName": "TicTacConsole",
-      "projectPath": "C:\\Users\\lando\\Documents\\gitRepos\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\TicTacConsole.csproj",
-      "packagesPath": "C:\\Users\\lando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lando\\Documents\\gitRepos\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\TicTacConsole.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
