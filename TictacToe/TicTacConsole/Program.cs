@@ -26,6 +26,10 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             do
             {
+
+                // TODO: Convert to Try.Parse()
+                Console.WriteLine($"\nCurrent Player: {player}\n");
+
                 Console.WriteLine("Type the x-coordinate of your mark: ");
                 x = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Type the y-coordinate of your mark: ");
@@ -38,6 +42,31 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
 
                 game.PrintField();
+
+                // Check for Draw
+                if(game.CheckDraw())
+                {
+                    gameOver = true;
+                    Console.WriteLine("\n\nDRAW! Neither player wins. Thank you for playing.\n\n");
+                }
+                // Check if there is a winning move
+                // Adjust
+                if(game.CheckWin() == 'n')
+                {
+                    // Not game over, Change current player
+                    if(player == 'X')
+                        player = 'O';
+                    else
+                        player = 'X';
+                }
+                else //Game over!
+                {
+                    gameOver = true;
+
+                }
+
+                
+
 
             } while (!gameOver);
         }
