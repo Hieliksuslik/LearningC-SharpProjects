@@ -8,6 +8,8 @@ namespace TictacToe
     public class Game
     {
         private char[,] _field = new char[3,3];
+
+        private int _moveCount = 0;
         public char[,] Field
         {
             get => _field;
@@ -30,8 +32,6 @@ namespace TictacToe
             }
         }
 
-        // TODO: Landon, when you wake up re-think how to approach 
-        // using this.
         public bool PlaceMarker(int x, int y, char player)
         {
             // If out of bounds, invalid move
@@ -42,12 +42,22 @@ namespace TictacToe
                 return false;
              
             _field[x,y] = player;
+            _moveCount++;
             return true;
         }
-
-        public void CheckWin()
+        // CheckWin returns true if there is a win condition.
+        // TODO: Re-think how to handle win/draw checks
+        public char CheckWin()
         {
+            return 'n';
+        }
 
+        public bool CheckDraw()
+        {
+            if(_moveCount == 9)
+                return true;
+            else
+                return false;
         }
     }
 
