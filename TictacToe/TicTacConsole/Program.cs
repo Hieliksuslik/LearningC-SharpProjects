@@ -7,8 +7,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
             char player = 'X';
+            char result = ' ';
             int x, y;
 
             bool gameOver = false;
@@ -42,32 +43,31 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 }
 
                 game.PrintField();
+                result = game.CheckWin(x, y, player);
 
-                // Check for Draw
-                if(game.CheckDraw())
+                if(!(result == 'n'))
                 {
+                    Console.WriteLine($"GAME OVER! Player: {player} has won!");
                     gameOver = true;
-                    Console.WriteLine("\n\nDRAW! Neither player wins. Thank you for playing.\n\n");
+                    continue;
                 }
-                // Check if there is a winning move
-                // Adjust
-                if(game.CheckWin() == 'n')
+                // Check for Draw
+                if(!game.CheckDraw())
                 {
+
                     // Not game over, Change current player
                     if(player == 'X')
                         player = 'O';
                     else
                         player = 'X';
                 }
-                else //Game over!
+                else
                 {
+                    // Draw!
                     gameOver = true;
-
+                    Console.WriteLine("\n\nDRAW! Neither player wins. Thank you for playing.\n\n");
+                    continue;
                 }
-
-                
-
-
             } while (!gameOver);
         }
     }
