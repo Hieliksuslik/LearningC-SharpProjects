@@ -66,7 +66,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
                     // Draw!
                     gameOver = true;
                     Console.WriteLine("\n\nDRAW! Neither player wins. Thank you for playing.\n\n");
-                    continue;
                 }
             } while (!gameOver);
         }
