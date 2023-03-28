@@ -47,8 +47,89 @@ namespace TictacToe
         }
         // CheckWin returns true if there is a win condition.
         // TODO: Re-think how to handle win/draw checks
-        public char CheckWin()
+        public char CheckWin(int x, int y, char player)
         {
+            int markerCount = 0;
+            // check row
+            for (int i = 0; i < 3; i++)
+            {
+                if(_field[x,i] == player)
+                {
+                    // return n for no
+                    markerCount++;
+
+                    if(markerCount == 3)
+                    // return y for yes.
+                    return 'y';
+                }
+                else
+                {
+                    markerCount = 0;
+                    break;
+                }
+            }
+
+            // check column
+            for (int i = 0; i < 3; i++)
+            {
+                if(_field[i,y] == player)
+                {
+                    // return n for no
+                    markerCount++;
+
+                    if(markerCount == 3)
+                    // return y for yes.
+                    return 'y';
+                }
+                else
+                {
+                    markerCount = 0;
+                    break;
+                }
+            }
+
+            // check diagonal
+            for (int i = 0; i < 3; i++)
+            {
+                if(_field[i,i] == player)
+                {
+                    // return n for no
+                    markerCount++;
+
+                    if(markerCount == 3)
+                    // return y for yes.
+                    return 'y';
+                }
+                else
+                {
+                    markerCount = 0;
+                    break;
+                }
+            }
+
+            // check counter-diagonal
+            int j = 2;
+            for (int i = 0; i < 3 && j >= 0; i++, j--)
+            {
+                // Counter Diag consits of:
+                // [0,2],[1,1],[2,0]
+                if(_field[i,j] == player)
+                {
+                    // return n for no
+                    markerCount++;
+
+                    if(markerCount == 3)
+                    // return y for yes.
+                    return 'y';
+                }
+                else
+                {
+                    markerCount = 0;
+                    break;
+                }
+                
+            }
+
             return 'n';
         }
 
