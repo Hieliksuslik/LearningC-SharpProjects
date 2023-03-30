@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88cabILMREppS+qzgAjNE1lP/IPKVOMgDuEZV4Mebzt7vOr+prcl2JDpM6mzCGmgzTAErgU6cKQ0+FnetRRxDw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\Github\\LearningC-SharpProjects\\TictacToe\\TicTacConsole\\TicTacConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.3\\microsoft.netcore.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.3\\microsoft.aspnetcore.app.runtime.win-x64.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

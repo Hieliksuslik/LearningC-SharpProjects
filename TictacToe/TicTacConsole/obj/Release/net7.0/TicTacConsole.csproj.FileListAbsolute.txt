@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\bin\Release\net7.0\TicTacConsole.exe
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\bin\Release\net7.0\TicTacConsole.deps.json
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\bin\Release\net7.0\TicTacConsole.runtimeconfig.json
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\bin\Release\net7.0\TicTacConsole.dll
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\bin\Release\net7.0\TicTacConsole.pdb
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.AssemblyInfo.cs
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.dll
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\refint\TicTacConsole.dll
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.pdb
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\TicTacConsole.genruntimeconfig.cache
+C:\Users\User\Documents\Github\LearningC-SharpProjects\TictacToe\TicTacConsole\obj\Release\net7.0\ref\TicTacConsole.dll
